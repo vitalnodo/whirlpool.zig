@@ -1,0 +1,4 @@
+.{
+    .name = "whirlpool",
+    .version = "0.0.1",
+}
